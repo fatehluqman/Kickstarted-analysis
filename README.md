@@ -1,5 +1,5 @@
 
-# Kickstarting-Analysis
+# Kickstarter-Analysis
 
 ## Overview of Project
 ### Purpose
